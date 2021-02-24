@@ -1,0 +1,1 @@
+C:\Users\corwi\OneDrive\HHS\ -\ werk\Github\ repo\ corwin\learning_rust\Getting_Started\hello_cargo\target\debug\hello_cargo.exe: C:\Users\corwi\OneDrive\HHS\ -\ werk\Github\ repo\ corwin\learning_rust\Getting_Started\hello_cargo\src\main.rs
